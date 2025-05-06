@@ -43,7 +43,7 @@ Company portfolio SPA built with React, Tailwind CSS & Framer Motion
 
 - 🌐 Portfolio: [rehaanali.netlify.app](https://rehaanali.netlify.app)
 - 📩 Email: [rehaann.dev@gmail.com](mailto:rehaann.dev@gmail.com)
-- 💼 LinkedIn: [www.linkedin.com/in/rehan-ali-7780752b3](#) *(add if you have one)*
+- 💼 LinkedIn: [www.linkedin.com/in/rehan-ali-7780752b3](#)
 
 ---
 
