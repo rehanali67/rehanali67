@@ -1,60 +1,68 @@
 <div align="center">
 
-# 🌌 REHAN ALI
-### `Full Stack Developer` • `Software Engineer` • `Technical Lead`
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=%E2%9A%A1+CRAFTING+DIGITAL+EXPERIENCES;%F0%9F%9A%80+MERN+STACK+ARCHITECT;%F0%9F%8C%90+BUILDING+THE+FUTURE;%F0%9F%94%AE+CODE+%E2%80%A2+CREATE+%E2%80%A2+INNOVATE" />
+<!-- ANIMATED HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=REHAN%20ALI&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%E2%80%A2%20JavaScript%20Architect%20%E2%80%A2%20Performance%20Engineer&descAlignY=51&descAlign=50" />
 
 </div>
 
----
-
 <div align="center">
 
-```ascii
-╔══════════════════════════════════════════════════════════════╗
-║  🎯 SYSTEM STATUS: ONLINE  •  🔋 PERFORMANCE: OPTIMIZED     ║
-║  📡 CONNECTIONS: GLOBAL    •  🛡️  SECURITY: ENTERPRISE      ║
-╚══════════════════════════════════════════════════════════════╝
+<!-- DYNAMIC TYPING WITH JS FOCUS -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=24&duration=2500&pause=500&color=00D4AA&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=140&lines=%F0%9F%9A%80+const+developer+%3D+new+JavaScriptNinja();%0A%E2%9A%A1+Building+scalable+web+experiences;%F0%9F%94%A5+React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Node.js;%F0%9F%8C%9F+Crafting+pixel-perfect+interfaces;%F0%9F%A7%A0+AI-powered+development+workflows;%F0%9F%92%8E+Performance+optimization+specialist" />
+
+</div>
+
+<!-- SYSTEM STATUS BAR -->
+<div align="center">
+
+```console
+╭─────────────────────────────────────────────────────────────────╮
+│ 🟢 SYSTEM: ONLINE    │ ⚡ JS ENGINE: V8 TURBO   │ 🔥 HOT: RELOAD │
+│ 📊 UPTIME: 99.99%     │ 🚀 BUILD: PRODUCTION     │ 🎯 READY: TRUE │
+╰─────────────────────────────────────────────────────────────────╯
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=rehanali&label=NEURAL+NETWORK+HITS&color=00f5ff&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/rehanali?label=FOLLOWERS&style=for-the-badge&color=00f5ff&labelColor=0a0a0a)
-![Stars](https://img.shields.io/github/stars/rehanali?label=STARS&style=for-the-badge&color=00f5ff&labelColor=0a0a0a)
+![Profile Views](https://komarev.com/ghpvc/?username=rehanali&label=NEURAL+HITS&color=00d4aa&style=flat-square)
+![Commit Activity](https://img.shields.io/github/commit-activity/w/rehanali/rehanali?style=flat-square&color=00d4aa&label=COMMITS)
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-00d4aa?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-00d4aa?style=flat-square&logo=typescript&logoColor=white)
 
 </div>
 
 ---
 
-<div align="center">
+<div>
 
-## 🧬 DIGITAL DNA SEQUENCE
+## 🧬 DEVELOPER.CONFIG
 
-```javascript
-class RehanAli extends FullStackDeveloper {
-    constructor() {
-        super();
-        this.config = {
-            version: "2025.1.0",
-            status: "🟢 ACTIVE",
-            location: "🌍 Earth • 🇵🇰 Pakistan",
-            timezone: "PKT (UTC+5)",
-            languages: ["JavaScript", "TypeScript", "Python", "Go"],
-            architecture: "Microservices • Cloud-Native • Serverless",
-            aiIntegration: true,
-            quantumReady: false // Coming Soon™
-        };
-    }
-    
-    async getCurrentMission() {
-        return [
-            "🔮 Building next-gen web applications",
-            "🚀 Architecting scalable cloud solutions", 
-            "🧠 Integrating AI/ML into user experiences",
-            "⚡ Optimizing performance to light speed"
-        ];
-    }
+```typescript
+interface Developer {
+  name: string;
+  role: string[];
+  location: GeoLocation;
+  languages: ProgrammingLanguage[];
+  expertise: TechStack[];
+  currentFocus: string[];
+  architecture: DesignPattern[];
 }
+
+const rehan: Developer = {
+  name: "Rehan Ali",
+  role: ["Full Stack Developer", "JavaScript Architect", "Performance Engineer"],
+  location: { country: "🇵🇰", timezone: "PKT+5", remote: true },
+  languages: ["JavaScript", "TypeScript", "JSX", "TSX", "Python", "Go"],
+  expertise: ["React.js", "Next.js", "Node.js", "Express", "MongoDB", "AWS"],
+  currentFocus: [
+    "🔮 Advanced React Patterns",
+    "⚡ Web Performance Optimization", 
+    "🤖 AI-Driven Development",
+    "🌊 Serverless Architecture"
+  ],
+  architecture: ["MVC", "JAMstack", "Microservices", "Event-Driven"]
+} as const;
+
+// Runtime Status
+console.log(`🚀 ${rehan.name} is currently: ${rehan.currentFocus.join(" • ")}`);
 ```
 
 </div>
@@ -63,79 +71,60 @@ class RehanAli extends FullStackDeveloper {
 
 <div align="center">
 
-## ⚡ TECHNOLOGY MATRIX
+## ⚡ JAVASCRIPT ECOSYSTEM MASTERY
 
+<!-- Tech Stack with smooth animations -->
 <table>
 <tr>
-<td valign="top" width="33%">
+<td valign="top" width="50%">
 
-### 🎨 FRONTEND ARSENAL
-```yaml
-Core:
-  ⚛️  React.js
-  🌐 Next.js 
-  📘 TypeScript
-  ⚡ JavaScript ES2024
+### 🎯 FRONTEND POWERHOUSE
+```jsx
+// React Excellence
+const Frontend = () => {
+  const [skills] = useState([
+    { tech: "React.js", level: "Expert", years: 5 },
+    { tech: "Next.js", level: "Advanced", focus: "SSR/SSG" },
+    { tech: "TypeScript", level: "Proficient", usage: "Daily" },
+    { tech: "Redux Toolkit", level: "Expert", pattern: "RTK Query" },
+    { tech: "Tailwind CSS", level: "Master", approach: "Utility-first" },
+    { tech: "Framer Motion", level: "Advanced", specialty: "Animations" }
+  ]);
 
-Styling:
-  🎨 Tailwind CSS
-  💫 Framer Motion
-  🎭 Styled Components
-  ⭐ CSS-in-JS
-
-State:
-  🔄 Redux Toolkit
-  🪝 React Query
-  📡 Zustand
-  🌊 Context API
+  return (
+    <div className="tech-stack">
+      {skills.map(skill => (
+        <TechBadge key={skill.tech} {...skill} />
+      ))}
+    </div>
+  );
+};
 ```
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="50%">
 
-### ⚙️ BACKEND MATRIX
-```yaml
-Runtime:
-  🟢 Node.js
-  🚀 Express.js
-  🌪️ Fastify
-  ⚡ Bun (Beta)
+### ⚙️ BACKEND ARCHITECTURE  
+```javascript
+// Node.js Ecosystem
+class BackendMaster {
+  constructor() {
+    this.runtime = "Node.js";
+    this.frameworks = ["Express.js", "Fastify", "NestJS"];
+    this.databases = ["MongoDB", "PostgreSQL", "Redis"];
+    this.auth = ["JWT", "OAuth", "Passport.js"];
+    this.apis = ["REST", "GraphQL", "WebSockets"];
+  }
 
-Database:
-  🍃 MongoDB
-  🐘 PostgreSQL
-  🔥 Firebase
-  ⚡ Redis
+  async buildAPI(requirements) {
+    const server = new Express();
+    server.use(middleware.performance());
+    server.use(middleware.security());
+    return server.optimize();
+  }
+}
 
-APIs:
-  🔗 GraphQL
-  📡 REST
-  🌊 WebSockets
-  🔄 gRPC
-```
-
-</td>
-<td valign="top" width="33%">
-
-### ☁️ CLOUD INFRASTRUCTURE
-```yaml
-Platforms:
-  ☁️  AWS
-  🔷 Vercel
-  🌊 Netlify
-  🐳 Docker
-
-DevOps:
-  🔄 CI/CD
-  📊 Monitoring
-  🛡️  Security
-  📈 Analytics
-
-Tools:
-  🔧 Kubernetes
-  📦 Terraform
-  🔍 ELK Stack
-  📱 Mobile-First
+const backend = new BackendMaster();
 ```
 
 </td>
@@ -146,24 +135,34 @@ Tools:
 
 ---
 
+<!-- GITHUB STATS DASHBOARD -->
 <div align="center">
 
-## 📊 SYSTEM METRICS & ANALYTICS
+## 📊 PERFORMANCE ANALYTICS DASHBOARD
 
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=rehanali&bg_color=000000&color=00f5ff&line=00f5ff&point=ffffff&area=true&hide_border=true&theme=react-dark" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=rehanali&theme=onestar&no-frame=true&column=7&margin-w=5&margin-h=5" />
 
+<!-- Main Stats Grid -->
 <table>
 <tr>
-<td>
-<img height="200px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rehanali&show_icons=true&theme=dark&bg_color=000000&title_color=00f5ff&text_color=ffffff&icon_color=00f5ff&hide_border=true&include_all_commits=true&count_private=true&custom_title=⚡+PERFORMANCE+METRICS" />
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rehanali&show_icons=true&theme=react&bg_color=1a1b27&title_color=00d4aa&icon_color=00d4aa&text_color=c9d1d9&border_color=30363d&include_all_commits=true&count_private=true&hide_border=true" />
+
 </td>
-<td>
-<img height="200px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rehanali&layout=compact&theme=dark&bg_color=000000&title_color=00f5ff&text_color=ffffff&hide_border=true&langs_count=10&custom_title=🧬+CODE+DISTRIBUTION" />
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehanali&layout=compact&theme=react&bg_color=1a1b27&title_color=00d4aa&text_color=c9d1d9&border_color=30363d&hide_border=true&langs_count=8&custom_title=Language%20Distribution" />
+
 </td>
 </tr>
 </table>
 
-<img width="800" src="https://github-readme-streak-stats.herokuapp.com/?user=rehanali&theme=dark&background=000000&stroke=00f5ff&ring=00f5ff&fire=ff6b35&currStreakLabel=00f5ff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+<!-- Contribution Graph -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rehanali&custom_title=Contribution%20Activity%20Graph&bg_color=1a1b27&color=00d4aa&line=00d4aa&point=ffffff&area=true&hide_border=true" />
+
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com/?user=rehanali&theme=react&background=1a1b27&stroke=00d4aa&ring=00d4aa&fire=ff6b35&currStreakLabel=00d4aa&hide_border=true" />
 
 </div>
 
@@ -171,42 +170,57 @@ Tools:
 
 <div align="center">
 
-## 🚀 PROJECT SHOWCASE • LIVE DEPLOYMENTS
+## 🚀 PRODUCTION DEPLOYMENTS
 
+<!-- Project Cards with enhanced styling -->
 <table>
 <tr>
 <td align="center" width="33%">
 
 ### 💎 LUXEFLEURS
-**E-COMMERCE ECOSYSTEM**
+**E-COMMERCE PLATFORM**
 
+<img src="https://img.shields.io/badge/Status-🟢_LIVE-success?style=for-the-badge" />
+
+```javascript
+// Performance Metrics
+const metrics = {
+  lighthouse: 96,
+  users: "10K+",
+  uptime: "99.9%",
+  loadTime: "<1.5s"
+};
 ```
-Status: 🟢 LIVE
-Performance: 95+ Lighthouse
-Users: 10K+ Active
-Revenue: $100K+ Processed
-```
 
-[![Demo](https://img.shields.io/badge/🌐_LIVE_DEMO-000000?style=for-the-badge&logo=netlify&logoColor=00f5ff)](https://luxefluers.netlify.app)
+**🛠️ Stack:** `React` `Firebase` `Stripe` `PWA`
 
-**Stack:** `React` `Firebase` `Stripe` `Real-time`
+[![Deploy](https://img.shields.io/badge/🌐_LIVE_DEMO-000000?style=for-the-badge&logo=vercel&logoColor=00d4aa)](https://luxefluers.netlify.app)
 
 </td>
 <td align="center" width="33%">
 
-### 📝 PEN & PIXEL
-**CMS PLATFORM**
+### 📝 PEN & PIXEL  
+**CMS ECOSYSTEM**
 
+<img src="https://img.shields.io/badge/Status-🟢_ACTIVE-success?style=for-the-badge" />
+
+```typescript
+interface CMSMetrics {
+  articles: number;
+  users: string;
+  performance: number;
+}
+
+const stats: CMSMetrics = {
+  articles: 1000,
+  users: "Multi-tenant",
+  performance: 94
+};
 ```
-Status: 🟢 OPERATIONAL  
-Architecture: Microservices
-Users: Multi-tenant
-Features: AI-Powered
-```
 
-[![Demo](https://img.shields.io/badge/🚀_LAUNCH-000000?style=for-the-badge&logo=vercel&logoColor=00f5ff)](https://penandpixel.netlify.app)
+**🛠️ Stack:** `MERN` `TypeScript` `Socket.io` `AWS`
 
-**Stack:** `MERN` `JWT` `WebSockets` `Cloud Storage`
+[![Launch](https://img.shields.io/badge/🚀_EXPLORE-000000?style=for-the-badge&logo=react&logoColor=00d4aa)](https://penandpixel.netlify.app)
 
 </td>
 <td align="center" width="33%">
@@ -214,16 +228,22 @@ Features: AI-Powered
 ### 🏢 FA CONSULTANTS
 **CORPORATE HUB**
 
-```
-Status: 🟢 DEPLOYED
-Load Time: <2s Global
-SEO Score: 100/100
-Mobile: Optimized
+<img src="https://img.shields.io/badge/Status-🟢_DEPLOYED-success?style=for-the-badge" />
+
+```jsx
+const siteMetrics = {
+  seoScore: 100,
+  accessibility: 98,
+  performance: 95,
+  bestPractices: 100
+};
+
+// Perfect Lighthouse Score
 ```
 
-[![Live](https://img.shields.io/badge/⚡_VISIT-000000?style=for-the-badge&logo=react&logoColor=00f5ff)](https://faconsultants.co/)
+**🛠️ Stack:** `Next.js` `TypeScript` `Tailwind` `Vercel`
 
-**Stack:** `React SPA` `Performance` `Animations`
+[![Visit](https://img.shields.io/badge/⚡_VISIT_SITE-000000?style=for-the-badge&logo=nextdotjs&logoColor=00d4aa)](https://faconsultants.co/)
 
 </td>
 </tr>
@@ -235,36 +255,25 @@ Mobile: Optimized
 
 <div align="center">
 
-## 🎯 MISSION CONTROL CENTER
+## 🎯 DEVELOPMENT WORKFLOW
 
 ```mermaid
-flowchart TD
-    A[🧠 REHAN.exe] --> B[Frontend Mastery]
-    A --> C[Backend Excellence] 
-    A --> D[Cloud Architecture]
-    A --> E[AI Integration]
+graph TD
+    A[💡 Ideation] -->|Design Thinking| B[🎨 UI/UX Design]
+    B -->|Component Architecture| C[⚛️ React Development]
+    C -->|Type Safety| D[📘 TypeScript Integration]
+    D -->|State Management| E[🔄 Redux/Zustand]
+    E -->|API Layer| F[🚀 Node.js Backend]
+    F -->|Database Design| G[🗄️ MongoDB/PostgreSQL]
+    G -->|Testing| H[🧪 Jest/Cypress]
+    H -->|Deployment| I[☁️ AWS/Vercel]
+    I -->|Monitoring| J[📊 Analytics]
+    J -->|Optimization| A
     
-    B --> F[⚛️ React Ecosystem]
-    B --> G[🎨 Design Systems]
-    
-    C --> H[🚀 Node.js Stack]
-    C --> I[🗄️ Database Design]
-    
-    D --> J[☁️ AWS Solutions]
-    D --> K[🐳 Containerization]
-    
-    E --> L[🤖 Machine Learning]
-    E --> M[🔮 Automation]
-    
-    style A fill:#000,stroke:#00f5ff,stroke-width:3px,color:#00f5ff
-    style F fill:#1a1a1a,stroke:#00f5ff,color:#fff
-    style G fill:#1a1a1a,stroke:#00f5ff,color:#fff
-    style H fill:#1a1a1a,stroke:#00f5ff,color:#fff
-    style I fill:#1a1a1a,stroke:#00f5ff,color:#fff
-    style J fill:#1a1a1a,stroke:#00f5ff,color:#fff
-    style K fill:#1a1a1a,stroke:#00f5ff,color:#fff
-    style L fill:#1a1a1a,stroke:#00f5ff,color:#fff
-    style M fill:#1a1a1a,stroke:#00f5ff,color:#fff
+    style A fill:#1a1b27,stroke:#00d4aa,stroke-width:2px,color:#fff
+    style C fill:#1a1b27,stroke:#61dafb,stroke-width:2px,color:#fff
+    style D fill:#1a1b27,stroke:#3178c6,stroke-width:2px,color:#fff
+    style F fill:#1a1b27,stroke:#339933,stroke-width:2px,color:#fff
 ```
 
 </div>
@@ -273,46 +282,67 @@ flowchart TD
 
 <div align="center">
 
-## 🏆 ACHIEVEMENT UNLOCKED
-
-| 🎖️ **CATEGORY** | 📈 **METRICS** | 🌟 **STATUS** |
-|:---|:---|:---|
-| **🚀 Performance** | 95+ Lighthouse Scores | `MASTERED` |
-| **💰 Revenue Impact** | $100K+ Transactions Processed | `ACHIEVED` |
-| **👥 User Engagement** | 10K+ Active Users | `SCALING` |
-| **⚡ Load Speed** | <2s Global Response Time | `OPTIMIZED` |
-| **🔒 Security** | Zero Breaches • Enterprise Grade | `SECURED` |
-| **📱 Compatibility** | 99% Cross-Device Success | `CERTIFIED` |
-
-</div>
-
----
-
-<div align="center">
-
-## 🌐 COMMUNICATION PROTOCOLS
+## 🏆 ACHIEVEMENT MATRIX
 
 <table>
 <tr>
-<td align="center">
+<td align="center" width="25%">
 
-[![Portfolio](https://img.shields.io/badge/🌌_PORTFOLIO_HUB-000000?style=for-the-badge&logo=react&logoColor=00f5ff)](https://rehaanali.netlify.app)
-
-**Main Terminal**
+### 📈 PERFORMANCE
+```javascript
+const metrics = {
+  lighthouse: 96,
+  coreWebVitals: "✅",
+  loadTime: "<2s",
+  optimization: "Expert"
+};
+```
 
 </td>
-<td align="center">
+<td align="center" width="25%">
 
-[![Email](https://img.shields.io/badge/📡_DIRECT_COMM-000000?style=for-the-badge&logo=gmail&logoColor=00f5ff)](mailto:rehaann.dev@gmail.com)
+### 💰 BUSINESS IMPACT  
+```typescript  
+interface Impact {
+  revenue: string;
+  users: string;
+  conversion: string;
+}
 
-**Instant Channel**
+const impact: Impact = {
+  revenue: "$100K+",
+  users: "50K+",
+  conversion: "+23%"
+};
+```
 
 </td>
-<td align="center">
+<td align="center" width="25%">
 
-[![LinkedIn](https://img.shields.io/badge/🤝_PROFESSIONAL_NET-000000?style=for-the-badge&logo=linkedin&logoColor=00f5ff)](https://www.linkedin.com/in/rehan-ali-7780752b3)
+### 🔧 CODE QUALITY
+```jsx
+const quality = {
+  coverage: "95%+",
+  linting: "ESLint",
+  prettier: true,
+  typescript: "Strict"
+};
 
-**Business Network**
+// Clean Code Advocate
+```
+
+</td>
+<td align="center" width="25%">
+
+### 🚀 DEPLOYMENT
+```javascript
+const deployment = {
+  cicd: "GitHub Actions",
+  monitoring: "24/7",
+  uptime: "99.9%",
+  environments: 3
+};
+```
 
 </td>
 </tr>
@@ -324,33 +354,82 @@ flowchart TD
 
 <div align="center">
 
-```ascii
-╔══════════════════════════════════════════════════════════════╗
-║                    🎯 COLLABORATION MODE: ON                 ║
-║                                                              ║
-║  🤝 Open to: Enterprise Projects • Consulting • Innovation  ║
-║  🔥 Expertise: Web Apps • E-commerce • Performance Systems  ║
-║  ⚡ Response Time: < 24h • Timezone: PKT (UTC+5)           ║
-╚══════════════════════════════════════════════════════════════╝
+## 🌐 CONNECT & COLLABORATE
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+[![Portfolio](https://img.shields.io/badge/🌟_PORTFOLIO-000000?style=for-the-badge&logo=react&logoColor=00d4aa&labelColor=1a1b27)](https://rehaanali.netlify.app)
+
+**🎯 Showcase Hub**
+*Interactive Projects*
+
+</td>
+<td align="center" width="33%">
+
+[![Email](https://img.shields.io/badge/📧_EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00d4aa&labelColor=1a1b27)](mailto:rehaann.dev@gmail.com)
+
+**💬 Direct Line**
+*Quick Response*
+
+</td>
+<td align="center" width="33%">
+
+[![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00d4aa&labelColor=1a1b27)](https://www.linkedin.com/in/rehan-ali-7780752b3)
+
+**🤝 Professional**
+*Network & Growth*
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+```console
+╭─────────────────────────────────────────────────────────────────╮
+│                  🎯 COLLABORATION STATUS: OPEN                  │
+│                                                                 │
+│  🤝 Available for: Enterprise Projects • Consulting • Teams     │
+│  ⚡ Specialization: React/Next.js • Node.js • Performance      │  
+│  🌍 Remote Ready • PKT+5 • Response < 12h                      │
+│                                                                 │
+│  💡 "Great software is built by great teams working together"  │
+╰─────────────────────────────────────────────────────────────────╯
 ```
 
-### 💫 *"The best code is not just functional—it's a work of art that scales."*
+---
+
+<!-- CONTRIBUTION SNAKE -->
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
 
 ---
 
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Contribution Graph" />
-
----
-
-**⚡ STATUS:** `BUILDING THE FUTURE • ONE COMMIT AT A TIME` **⚡**
+**⚡ CURRENT STATUS:** `Building Tomorrow's Web • One Component at a Time` **⚡**
 
 ```javascript
-while(alive) { 
-    code(); 
-    optimize(); 
-    innovate(); 
-    repeat(); 
+// The Developer's Loop
+async function developerLife() {
+  while (passionate) {
+    await code();
+    await learn();  
+    await build();
+    await optimize();
+    await share();
+  }
 }
+
+developerLife(); // Running since 2019...
 ```
 
+</div>
+
+<!-- ANIMATED FOOTER -->
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" />
 </div>
