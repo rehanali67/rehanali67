@@ -50,15 +50,15 @@ const rehan: Developer = {
   name: "Rehan Ali",
   role: ["Full Stack Developer", "JavaScript Architect", "Performance Engineer"],
   location: { country: "🇵🇰", timezone: "PKT+5", remote: true },
-  languages: ["JavaScript", "TypeScript", "JSX", "TSX", "Python", "Go"],
-  expertise: ["React.js", "Next.js", "Node.js", "Express", "MongoDB", "AWS"],
+  languages: ["JavaScript", "TypeScript", "JSX", "TSX"],
+  expertise: ["React.js", "Next.js", "Node.js", "Express", "MongoDB"],
   currentFocus: [
     "🔮 Advanced React Patterns",
     "⚡ Web Performance Optimization", 
     "🤖 AI-Driven Development",
     "🌊 Serverless Architecture"
   ],
-  architecture: ["MVC", "JAMstack", "Microservices", "Event-Driven"]
+  architecture: ["MVC"]
 } as const;
 
 // Runtime Status
@@ -83,12 +83,12 @@ console.log(`🚀 ${rehan.name} is currently: ${rehan.currentFocus.join(" • ")
 // React Excellence
 const Frontend = () => {
   const [skills] = useState([
-    { tech: "React.js", level: "Expert", years: 5 },
-    { tech: "Next.js", level: "Advanced", focus: "SSR/SSG" },
+    { tech: "React.js", level: "Proficient", years: 2 },
+    { tech: "Next.js", level: "Proficient", focus: "SSR/SSG" },
     { tech: "TypeScript", level: "Proficient", usage: "Daily" },
-    { tech: "Redux Toolkit", level: "Expert", pattern: "RTK Query" },
+    { tech: "Redux Toolkit", level: "Proficient", pattern: "RTK Query" },
     { tech: "Tailwind CSS", level: "Master", approach: "Utility-first" },
-    { tech: "Framer Motion", level: "Advanced", specialty: "Animations" }
+    { tech: "Framer Motion", level: "Proficient", specialty: "Animations" }
   ]);
 
   return (
@@ -110,8 +110,8 @@ const Frontend = () => {
 class BackendMaster {
   constructor() {
     this.runtime = "Node.js";
-    this.frameworks = ["Express.js", "Fastify", "NestJS"];
-    this.databases = ["MongoDB", "PostgreSQL", "Redis"];
+    this.frameworks = ["Express.js"];
+    this.databases = ["MongoDB", "Supabase"];
     this.auth = ["JWT", "OAuth", "Passport.js"];
     this.apis = ["REST", "GraphQL", "WebSockets"];
   }
@@ -161,8 +161,7 @@ const backend = new BackendMaster();
 <!-- Contribution Graph -->
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rehanali&custom_title=Contribution%20Activity%20Graph&bg_color=1a1b27&color=00d4aa&line=00d4aa&point=ffffff&area=true&hide_border=true" />
 
-<!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com/?user=rehanali&theme=react&background=1a1b27&stroke=00d4aa&ring=00d4aa&fire=ff6b35&currStreakLabel=00d4aa&hide_border=true" />
+
 
 </div>
 
@@ -265,8 +264,7 @@ graph TD
     D -->|State Management| E[🔄 Redux/Zustand]
     E -->|API Layer| F[🚀 Node.js Backend]
     F -->|Database Design| G[🗄️ MongoDB/PostgreSQL]
-    G -->|Testing| H[🧪 Jest/Cypress]
-    H -->|Deployment| I[☁️ AWS/Vercel]
+    H -->|Deployment| I[☁️ Render/Vercel]
     I -->|Monitoring| J[📊 Analytics]
     J -->|Optimization| A
     
@@ -389,7 +387,7 @@ const deployment = {
 
 ---
 
-<div align="center">
+<div>
 
 ```console
 ╭─────────────────────────────────────────────────────────────────╮
