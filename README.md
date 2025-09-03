@@ -1,121 +1,171 @@
-# Rehan Ali
-**Senior Full Stack Developer** | **Software Engineer** | **Technical Lead**
+# 👋 Hey there! I'm Rehan Ali
 
-Experienced full stack developer with a strong background in building enterprise-grade web applications using modern JavaScript technologies. Proven expertise in architecting scalable solutions, leading development projects, and delivering high-quality software products for diverse industry clients.
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Senior+Full+Stack+Developer;Building+Amazing+Web+Experiences;MERN+Stack+Specialist;Always+Learning%2C+Always+Growing)
 
-## Professional Summary
+</div>
 
-Results-driven software engineer with extensive experience in full stack web development, specializing in the MERN ecosystem and modern JavaScript frameworks. Demonstrated ability to design and implement complex web applications, optimize performance, and maintain clean, scalable codebases. Strong background in agile development methodologies and cross-functional team collaboration.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rehanali&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/rehanali?label=Followers&style=for-the-badge&color=00d9ff&labelColor=black" alt="Followers" />
+</p>
 
-## Technical Expertise
+---
 
-**Frontend Technologies**
-- Advanced React.js and Next.js development with TypeScript
-- Component-driven architecture and design systems
-- State management using Redux, Context API, and modern patterns
-- Responsive web design with CSS3, Sass, and utility-first frameworks
-- Performance optimization and code splitting techniques
+## 🚀 About Me
 
-**Backend Development**
-- Server-side development with Node.js and Express.js
-- RESTful API design and microservices architecture
-- Database design and optimization (MongoDB, PostgreSQL, MySQL)
-- Authentication systems and security best practices
-- Third-party service integrations and payment processing
-
-**DevOps & Infrastructure**
-- Cloud deployment on AWS, Vercel, and containerized environments
-- CI/CD pipeline implementation and automated testing
-- Version control with Git and collaborative development workflows
-- Performance monitoring and application optimization
-
-## Professional Projects
-
-### LuxeFleurs E-commerce Platform
-**Production Application** | [Live Demo](https://luxefluers.netlify.app)
-
-Developed a comprehensive e-commerce solution featuring user authentication, payment gateway integration, inventory management, and order processing. Implemented secure user sessions, dynamic product catalog, and administrative dashboard for content management.
-
-- **Architecture**: React frontend with Firebase backend services
-- **Key Features**: Stripe payment integration, real-time inventory tracking, user account management
-- **Performance**: Achieved 95+ Lighthouse scores across all metrics
-
-### Pen & Pixel Content Management System
-**Enterprise Solution** | [Live Demo](https://penandpixel.netlify.app)
-
-Built a full-featured content management platform with rich text editing, media handling, and multi-user collaboration capabilities. Designed scalable backend architecture supporting high-volume content operations and user management.
-
-- **Technology Stack**: MERN stack with JWT authentication
-- **Capabilities**: Advanced text editor, cloud media storage, role-based access control
-- **Scalability**: Optimized for concurrent users and large content volumes
-
-### FA Consultants Corporate Platform
-**Client Project** | [Live Site](https://faconsultants.co/)
-
-Delivered a professional corporate website with modern design principles, optimized performance, and seamless user experience. Implemented advanced animation systems and responsive design patterns for multi-device compatibility.
-
-- **Technical Implementation**: React SPA with performance optimization
-- **Design Systems**: Custom component library and consistent UI patterns
-- **Performance Metrics**: Sub-2 second load times and mobile-optimized experience
-
-## Core Technologies
-
-**Programming Languages**
-```
-JavaScript (ES6+), TypeScript, HTML5, CSS3, SQL
+```typescript
+const rehan = {
+    title: "Senior Full Stack Developer",
+    location: "Pakistan 🇵🇰",
+    focus: ["Web Development", "Enterprise Solutions", "UI/UX Design"],
+    currentlyLearning: ["Cloud Architecture", "AI Integration", "Web3"],
+    funFact: "I turn coffee ☕ into scalable applications ⚡",
+    motto: "Clean code is not written by following a set of rules. 
+           You don't become a software craftsman by learning a list of heuristics."
+};
 ```
 
-**Frameworks & Libraries**
-```
-React, Next.js, Node.js, Express.js, Redux, Tailwind CSS
-```
+## 🛠️ Tech Arsenal
 
-**Databases & Cloud Services**
-```
-MongoDB, PostgreSQL, Firebase, AWS Services, Cloudinary
-```
+<div align="center">
 
-**Development Tools**
-```
-Git, VS Code, Postman, Jest, Docker, Webpack
-```
-
-## Technology Proficiency
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+### 💻 Frontend Mastery
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+
+### ⚙️ Backend Excellence
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## Professional Development
+</div>
 
-**Current Focus Areas**
-- Cloud-native application development and serverless architectures
-- Advanced performance optimization and web vitals improvement
-- Machine learning integration in web applications
-- Enterprise-scale system design and microservices patterns
+## 📊 GitHub Analytics
 
-**Certifications & Learning**
-- Continuous education in emerging web technologies and industry best practices
-- Active participation in developer communities and open-source contributions
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rehanali&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&icon_color=00d9ff"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rehanali&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff"/>
+</div>
 
-## Contact Information
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rehanali&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff"/>
+</div>
 
-**Professional Portfolio**: [rehaanali.netlify.app](https://rehaanali.netlify.app)  
-**Business Email**: [rehaann.dev@gmail.com](mailto:rehaann.dev@gmail.com)  
-**LinkedIn Profile**: [linkedin.com/in/rehan-ali-7780752b3](https://www.linkedin.com/in/rehan-ali-7780752b3)
+## 🏆 Featured Projects
+
+<div align="center">
+
+### 💎 LuxeFleurs E-commerce Platform
+[![LuxeFleurs](https://img.shields.io/badge/🌸_LuxeFleurs-Live_Demo-00d9ff?style=for-the-badge)](https://luxefluers.netlify.app)
+
+*Full-stack e-commerce solution with Stripe integration, Firebase backend, and 95+ Lighthouse scores*
+
+**Tech Stack:** `React` `Firebase` `Stripe API` `Real-time Updates`
 
 ---
 
-### Professional Availability
+### 📝 Pen & Pixel CMS
+[![Pen & Pixel](https://img.shields.io/badge/✍️_Pen_&_Pixel-Live_Demo-00d9ff?style=for-the-badge)](https://penandpixel.netlify.app)
 
-Available for full-time opportunities, consulting engagements, and collaborative projects. Interested in roles involving technical leadership, full stack development, and innovative web application development.
+*Enterprise content management system with rich text editing and multi-user collaboration*
 
-**Specialization**: Enterprise web applications, e-commerce platforms, content management systems, and performance-critical applications.
+**Tech Stack:** `MERN Stack` `JWT Auth` `Cloud Storage` `Real-time Collaboration`
 
 ---
 
-*Committed to delivering exceptional software solutions through clean code, scalable architecture, and user-centered design principles.*
+### 🏢 FA Consultants Corporate Site
+[![FA Consultants](https://img.shields.io/badge/🏢_FA_Consultants-Live_Site-00d9ff?style=for-the-badge)](https://faconsultants.co/)
+
+*Professional corporate platform with advanced animations and sub-2 second load times*
+
+**Tech Stack:** `React SPA` `Performance Optimization` `Custom Animations`
+
+</div>
+
+## 🎯 Current Focus
+
+<div align="center">
+
+```mermaid
+mindmap
+  root((Rehan's Focus))
+    Cloud Native
+      Serverless Architecture
+      Microservices
+      Scalability
+    AI Integration
+      Machine Learning
+      Automation
+      Smart Features
+    Web Performance
+      Core Web Vitals
+      Optimization
+      User Experience
+    Enterprise Solutions
+      System Design
+      Architecture
+      Best Practices
+```
+
+</div>
+
+## 💼 Professional Highlights
+
+<div align="center">
+
+| 🎯 **Specialty** | 🚀 **Achievement** |
+|:---|:---|
+| **Enterprise Applications** | Built scalable systems handling thousands of concurrent users |
+| **E-commerce Solutions** | Integrated payment gateways processing $100K+ transactions |
+| **Performance Optimization** | Achieved 95+ Lighthouse scores across all metrics |
+| **Team Leadership** | Led cross-functional teams in agile development environments |
+| **Client Satisfaction** | Delivered 15+ successful projects with 100% client satisfaction |
+
+</div>
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00d9ff?style=for-the-badge)](https://rehaanali.netlify.app)
+[![Email](https://img.shields.io/badge/📧_Email-rehaann.dev@gmail.com-00d9ff?style=for-the-badge)](mailto:rehaann.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-00d9ff?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rehan-ali-7780752b3)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎨 "Code is like humor. When you have to explain it, it's bad." - Cory House
+
+**💡 Open to:** Full-time opportunities • Consulting engagements • Collaborative projects
+
+**🔥 Specializing in:** Enterprise web applications • E-commerce platforms • Performance-critical systems
+
+---
+
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+---
+
+⭐ **If my work inspires you, consider giving my repositories a star!** ⭐
+
+*Building the future, one commit at a time* 🚀
+
+</div>
