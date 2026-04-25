@@ -16,7 +16,7 @@
 
 ---
 
-**Full Stack Developer** based in Islamabad, Pakistan.  
+**Full Stack Developer** based in Lahore, Pakistan.  
 I build things for the web — mostly with React and Node.js.  
 Final-year CS student at University of Central Punjab.
 
