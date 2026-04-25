@@ -60,7 +60,7 @@ Final-year CS student at University of Central Punjab.
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/linkedin-0d1117?style=flat&logo=linkedin&logoColor=8b949e)](https://www.linkedin.com/in/rehan-ali-7780752b3)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/portfolio-0d1117?style=flat&logo=vercel&logoColor=8b949e)](https://rehaanali.netlify.app)
+[![Portfolio](https://img.shields.io/badge/portfolio-0d1117?style=flat&logo=vercel&logoColor=8b949e)](https://rehaanali.vercel.app)
 
 <!-- SNAKE -->
 <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" />
