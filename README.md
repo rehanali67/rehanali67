@@ -38,7 +38,7 @@ Final-year CS student at University of Central Punjab.
 ### currently
 
 - 📍 Interning remotely while finishing my CS degree
-- 🔧 Building [TremorGuard](https://github.com/rehanali) — an AI wearable for tremor suppression using ESP32 + TensorFlow Lite
+- 🔧 Building [TremorGuard](https://github.com/rehanali67) — an AI wearable for tremor suppression using ESP32 + TensorFlow Lite
 - 📖 Deep in compilers, NLP, and formal languages coursework
 
 ---
